@@ -1,0 +1,2 @@
+# QMS
+Full name QuickMarkScene qr code recognition software application scene.Considering that the application of qr codes in various fields has penetrated into every aspect of people's life.With the spread of technology to the field of artificial intelligence and the improvement of people's living standards, more or less will be exposed to some new things, have thought about some traditional scenes, can be replaced with two-dimensional code?Please use divergent thinking to accomplish an interesting thing together!Join us now!
