@@ -15,3 +15,4 @@
 .
 话又说到这个小而实用的代码上面，应用了QRCode插件的一个小小的功能，这个没超过20行代码的程序我打印在了一张纸上面。
 
+效果图：![avatar](https://raw.githubusercontent.com/yunjiangs/QMS/master/car/images/qrcode.png)
